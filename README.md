@@ -1,1 +1,1 @@
-# Traditionsal-features
+# Traditional-features
